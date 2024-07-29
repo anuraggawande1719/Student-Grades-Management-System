@@ -17,7 +17,7 @@ Start by cloning this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-grades-management.git
+git clone https://github.com/anuraggawande1719/Student-Grades-Management-System.git
 Navigate to the Project Directory
 
 bash
